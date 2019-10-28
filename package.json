@@ -1,0 +1,22 @@
+{
+  "name": "web_nodejs_test3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loonnodejscode/test.git"
+  },
+  "keywords": [
+    "test3"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loonnodejscode/test/issues"
+  },
+  "homepage": "https://github.com/loonnodejscode/test#readme"
+}
